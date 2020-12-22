@@ -39,7 +39,7 @@ experience:
     company: Shenzhen University
     company_url: ''
     location: Shenzhen, China
-    date_start: '2017-09-01'
+    date_start: '2019-06-01'
     date_end: ''
     description: Doing researches on forensics and computer vision and writer acadenmic papers.
     
