@@ -26,6 +26,4 @@ email: zhuolong@email.szu.edu.cn
 superuser: true
 highlight_name: false
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhuo Long is a research assistant of artificial intelligence at Shenzhen Key Lab. of Media Security, whose leader is Prof. Jiwu Huang, FIEEE. His research interests involve computer vision, image processing and security in AI, such as forensics and data hiding. He is passionate about deep learning and has rich experiences in programming. He is self-motivated and good at finding the novel insight into new researches. Meanwhile, Zhuo participated in many international AI competitions and won some good place.
