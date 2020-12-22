@@ -34,7 +34,15 @@ experience:
 #        * Analysing
 #        * Modelling
 #        * Deploying
-        
+
+  - title: Intern
+    company: Tencent
+    company_url: ''
+    location: Shenzhen, China
+    date_start: '2017-12-01'
+    date_end: '2018-05-31'
+    description: Developed NLP applications and explored novel ideas for man-machine dialogue.
+
   - title: Visiting Student
     company: International Technology University
     company_url: ''
