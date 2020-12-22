@@ -1,7 +1,7 @@
 ---
 title: Zhuo Long (卓龙)
 role: Research Assistant of Artificial Intelligence
-avatar_filename: baidi.jpg
+avatar_filename: 400.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
