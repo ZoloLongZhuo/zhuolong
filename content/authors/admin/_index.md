@@ -1,13 +1,13 @@
 ---
 title: Zhuo Long (卓龙)
-role: Research Assistant of Artificial Intelligencel
+role: Research Assistant of Artificial Intelligence
 avatar_filename: new_400.jpg
 bio: My research interests include Computer Vision, Security in AI and Image
   Processing.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Security in AI
+  - Image Processing.
 social:
   - icon: envelope
     icon_pack: fas
