@@ -41,5 +41,5 @@ experience:
     location: San Jose, California
     date_start: '2016-07-01'
     date_end: '2016-08-31'
-    description: Studied machine learning and leadership summer school, and visited top universities and companies.
+    description: Studied machine learning and leadership in summer school, and visited top universities and companies.
 ---
