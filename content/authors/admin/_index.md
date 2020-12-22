@@ -1,9 +1,8 @@
 ---
 title: Zhuo Long (卓龙)
-role: Research Assistant of Artificial Intelligence
-avatar_filename: 400.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Research Assistant of Artificial Intelligencelll
+avatar_filename: new_400.jpg
+bio: My research interests include , mobile computing and programmable matter.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
