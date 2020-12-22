@@ -26,4 +26,4 @@ email: zhuolong@email.szu.edu.cn
 superuser: true
 highlight_name: false
 ---
-Zhuo Long is a research assistant of artificial intelligence at Shenzhen Key Lab. of Media Security, whose leader is Prof. Jiwu Huang, FIEEE. His research interests involve computer vision, image processing and security in AI, such as forensics and data hiding. He is passionate about deep learning and has rich experiences in programming. He is self-motivated and good at finding the novel insight into new researches. Meanwhile, Zhuo participated in many international AI competitions and won some good place.
+Zhuo Long is a research assistant of artificial intelligence at Shenzhen Key Lab. of Media Security, whose leader is Prof. Jiwu Huang, FIEEE. His research interests involve computer vision, image processing and security in AI, such as forensics and data hiding. He is passionate about deep learning and has rich experiences in programming. He is self-motivated and good at finding the novel insight into new researches. Besides, Zhuo participated in many international AI competitions and won some good place.
