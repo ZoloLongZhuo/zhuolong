@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: ieee
-  icon_pack: ai
-  name: IEEE
-- description: 100%
+- description: Python, C++, Tensorflow, Pytorch
+  icon: code
+  icon_pack: fas
+  name: Programming
+- description: Sklearn, Mechine Learining
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Data Science
+- description: Application Development
+  icon: laptop
   icon_pack: fas
-  name: Photography
+  name: APP
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
