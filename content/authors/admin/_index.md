@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: zhuolong@email.szu.edu.cn
+    link: /#Concat
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=_DVnyb8AAAAJ
