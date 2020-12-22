@@ -7,7 +7,7 @@ bio: My research interests include Computer Vision, Security in AI and Image
 interests:
   - Computer Vision
   - Security in AI
-  - Image Processing.
+  - Image Processing
 social:
   - icon: envelope
     icon_pack: fas
