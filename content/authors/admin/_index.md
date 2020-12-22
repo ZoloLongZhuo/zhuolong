@@ -1,5 +1,5 @@
 ---
-title: Zhuo Long (卓龙)
+title: Zhuo Long
 role: Research Assistant of Artificial Intelligence
 avatar_filename: new_400.jpg
 bio: My research interests include Computer Vision, Security in AI and Image
