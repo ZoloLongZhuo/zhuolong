@@ -1,6 +1,6 @@
 ---
-title: Zhuo Long
-role: Professor of Artificial Intelligence
+title: Zhuo Long (z)
+role: Research Assistant of Artificial Intelligence
 avatar_filename: 微信图片_20191020161707.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
