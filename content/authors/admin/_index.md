@@ -11,19 +11,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: zhuolong@email.szu.edu.cn
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: /#contact
-    icon_pack: far
-    link: zhuolong@email.szu.edu.cn
+    link: https://scholar.google.com/citations?user=_DVnyb8AAAAJ
 organizations:
   - name: Shenzhen University
 education:
