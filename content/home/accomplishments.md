@@ -46,6 +46,6 @@ item:
   description: "3rd Place"
   organization:  ZhiJiang Lab  
   #organization_url: https://www.datacamp.com
-  title: '2019 ZhiJiang Lab Cup Global AI Competition ---   '
+  title: '2019 ZhiJiang Lab Cup Global AI Competition   '
   url: ""
 ---
