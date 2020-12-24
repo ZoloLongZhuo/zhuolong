@@ -26,26 +26,26 @@ date_format: Jan 2006
 item:
 - # certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
+  date_start: "2018-02-01"
+  description: "4th Place"
   organization: IEEE
   # organization_url: https://www.coursera.org
   title: 2017 SPScup Challenge
   url: ""
-- certificate_url: https://www.edx.org
+- #certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  date_start: "2019-05-01"
+  description: 23rd Place
+  organization: ALi-IJCAI
+  #organization_url: https://www.edx.org
+  title:  IJCAI-19 ALI Adversarial AI Challenge
+  #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- #certificate_url: https://www.datacamp.com
+  date_end: ""
+  date_start: "2019-10-01"
+  description: "3rd Place"
+  organization:  ZhiJiang Lab  
+  #organization_url: https://www.datacamp.com
+  title: '2019 ZhiJiang Lab Cup Global AI Competition ---   '
   url: ""
 ---
