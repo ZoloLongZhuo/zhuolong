@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: ""
 tags:
-  - Deep Learning
+  - Computer Vision
 links: []
 image:
   caption: ""
