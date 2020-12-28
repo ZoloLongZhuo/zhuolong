@@ -11,11 +11,12 @@ authors:
   - Bin Li
   - Jiwu Huang
 author_notes: []
-publication: Submission to *IEEE Transactions on Information Forensics and Security*
+publication: Prepared Submission to *IEEE Transactions on Information Forensics
+  and Security*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Under Review In *IEEE TIFS*
+publication_short: Prepared Submission to *IEEE TIFS*
 url_source: ""
 url_video: ""
 title: "Evading Detection Actively: Deep Anti-Forensics against Forgery Localization"
