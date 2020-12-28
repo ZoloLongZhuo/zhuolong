@@ -12,8 +12,7 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - Robert Ford
+  - Long
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -26,7 +25,8 @@ url_project: ""
 publication_short: In *ICW*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: Fake Colorized Image Detection with Channel-wise Convolution based
+  Deep-learning Framework
 doi: ""
 featured: true
 tags: []
