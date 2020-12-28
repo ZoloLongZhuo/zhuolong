@@ -1,0 +1,35 @@
+---
+abstract: ""
+slides: ""
+url_pdf: ""
+publication_types:
+  - "3"
+authors:
+  - Long Zhuo
+  - Shunquan Tan
+  - Shenghai Luo
+  - Bin Li
+  - Jiwu Huang
+author_notes: []
+publication: Submission to *IEEE Transactions on Information Forensics and Security*
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: Under Review In *IEEE TIFS*
+url_source: ""
+url_video: ""
+title: "Evading Detection Actively: Deep Anti-Forensics against Forgery Localization"
+doi: ""
+featured: false
+tags: []
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+date: 2020-01-28T17:41:00.000Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00.000Z
+url_poster: ""
+url_code: ""
+---
