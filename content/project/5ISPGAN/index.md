@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: ""
 tags:
-  - Deep Learning
+  - Image Processing
 links: []
 image:
   caption: ""
