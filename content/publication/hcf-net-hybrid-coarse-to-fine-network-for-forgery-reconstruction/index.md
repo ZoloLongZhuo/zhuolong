@@ -7,8 +7,6 @@ publication_types:
 authors:
   - Long Zhuo
   - Shunquan Tan
-  - Bin Li
-  - Jiwu Huang
 author_notes: []
 publication: Under Review In Neurocomputing
 summary: ""
