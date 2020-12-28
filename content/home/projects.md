@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Image Processing
+    tag: Image Processing
+  - name: Security in AI
+    tag: security
+  - name: Security in AI
+    tag: security  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
