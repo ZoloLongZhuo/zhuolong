@@ -21,7 +21,7 @@ url_video: ""
 title: Fake Colorized Image Detection with Channel-wise Convolution based
   Deep-learning Framework
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
