@@ -31,8 +31,8 @@ content:
     tag: Image Processing
   - name: Security in AI
     tag: security
-  - name: Security in AI
-    tag: security  
+  - name: Object Detection
+    tag: Object Detection  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
