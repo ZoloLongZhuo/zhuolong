@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 subtitle: ""
 tags:
-  - Computer Vision
+  - Object Detection
 links: []
 image:
   caption: ""
